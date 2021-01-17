@@ -11,8 +11,11 @@ function Product() {
                     <strong>19.99</strong>
                 </p>
                 <div className="product__rating">
-
+                    <p>🌟</p>
                 </div>
+                <img className="item__image" src="https://images-na.ssl-images-amazon.com/images/I/51T-sMqSMiL._SX329_BO1,204,203,200_.jpg"
+                    alt="star" />
+                <button className="button_add_basket">Add to Basket</button>
             </div>
         </div>
     )

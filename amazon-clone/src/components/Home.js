@@ -12,7 +12,6 @@ function Home() {
 
             <div className="home_row">
                 <Product/>
-                <Product/>
             </div>
 
             <div className="how_row">
