@@ -37,15 +37,6 @@
     margin-top: 5px;
 }
 
-.product__info {}
-
-.product__rating {}
-
-
-/*
-.rating {
-    background-image: url('https://icons.iconarchive.com/icons/oxygen-icons.org/oxygen/16/Actions-rating-icon.png');
-    background-repeat: no-repeat;
+.product__rating {
+    display: flex;
 }
-
-*/
